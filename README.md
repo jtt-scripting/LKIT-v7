@@ -1,5 +1,5 @@
 TERMS OF USE FOR: LKIT-v7
-Copyright (c) 2026 jtt-scripting | JBEFTheTuber
+Copyright (c) 2026 (GitHub) jtt-scripting | (Roblox) JBEFTheTuber
 
 PERMISSION NOTICE:
 Permission is hereby granted, free of charge, to any person obtaining a copy
