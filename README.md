@@ -1,4 +1,4 @@
-TERMS OF USE FOR: LKIT-v7
+  TERMS OF USE FOR: LKIT-v7
 Copyright (c) 2026 (GitHub) jtt-scripting | (Roblox) JBEFTheTuber
 
 PERMISSION NOTICE:
@@ -9,7 +9,7 @@ attribution for standard usage.
 MODIFICATION & REDISTRIBUTION:
 - You may modify, remix, and share this software.
 - IF MODIFIED AND REDISTRIBUTED: You MUST provide attribution to the 
-  original creator (jtt-scripting | JBEFTheTuber).
+  original creator ( (GitHub) jtt-scripting | (Roblox) JBEFTheTuber).
 - REDISTRIBUTION MUST BE FREE: You may not sell, sublicense, or rent 
   this software or any modified versions of it.
 
